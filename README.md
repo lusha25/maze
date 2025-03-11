@@ -1,6 +1,6 @@
 Labirint 
 
-![image](https://github.com/user-attachments/assets/c6ebf0ba-805f-4ac8-824c-229f0ef4c067)
+![image](https://github.com/user-attachments/assets/25a0d24a-30c7-43bb-8458-026790763347)
 
 # Maze Game
 
